@@ -1,0 +1,58 @@
+<html>
+<body>
+<title></title>
+<body background="image/background.jpg">
+<br>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Amatic+SC">
+<style>
+body, html {height: 100%}
+body,h1,h2,h3,h4,h5,h6 {font-family: "Amatic SC", sans-serif}
+.menu {display: none}
+.bgimg {
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 90%;
+}
+footer {
+  background-color:black;
+  padding: 30px;
+  text-align: center;
+  color: white;
+</style>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="family.html"><img src="image/myfamily.png"></a>
+<a href="aboutme.html"><img src="image/about.png"></a>
+<a href="gallery.html"><img src="image/gallery.png"></a>
+<br>
+<br>
+<br>
+<div class="w3-container w3-padding-64 w3-grey w3-xlarge">
+  <div class="w3-content">
+    <h1 class="w3-center w3-jumbo" style="margin-bottom:54px">MY FAMILY</h1>
+    <p>I have 5 siblings including myself. The oldest is my brother he is 25 years old, he already married and work as engineer. Second child is my sister, she is 22 years old and still studying at USIM. The third child is me. Forth is my younger sister, 
+    she is 18 years old and studying at UIA Gambang. Lastly is my youngest sister, she is 14 years old and still schooling. My father works as engineer at Shah Alam, Selangor while my mother work as a teacher at SAMER, Rawang. Both of my parents are from Kelantan.</p>
+    <img src="image/family.jpeg" style="width:50%" class="w3-margin-top w3-margin-bottom" align="center">
+    <h1><b>Family Member</b></h1>
+    
+    <div class="w3-row">
+      <div class="w3-col s6">
+        <p>1. Mohamad Sarbani Bin Che Noh (Father)</p>
+        <p>2. Wan Najibah Binti Wan Sulaiman (Mother)</p>
+        <p>3. Mohammad Hafiz Bin Mohamad Sarbani (Brother)</p>
+        <p>4. Nur Maisarah Binti Mohamad Sarbani (Sister)</p>
+        <p>5. Nur Nadhirah Binti Mohamad Sarbani (Me)</p>
+        <p>6. Nur Afifah Binti Mohamad Sarbani (Younger sister)</p>
+        <p>7. Nur Farizah Binti Mohamad Sarbani (Younger sister)</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer>
+<p>All Right Reserved 2020</p>
+</footer>
+
+</body>
+</html>
